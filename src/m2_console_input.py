@@ -86,7 +86,11 @@ def print_an_integer_many_times_on_one_row():
     # HINT: One way to print on a SINGLE line is to build up a string
     #       and then print that (single) string.
     # ------------------------------------------------------------------
-
+    n = INPUT
+    s = ''
+    for k in range(
+        s = s + xxx
+    print(s)
 
 def input_it_all():
     """
